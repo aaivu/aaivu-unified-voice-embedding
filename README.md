@@ -1,6 +1,6 @@
-# Project Title / Research Title
+#  Unified Voice Embedding through Multi task Learning
 
-![project] ![research]
+![research]
 
 
 
@@ -20,7 +20,7 @@
 
 ## Summary
 
-two - three paragraphs about your project.
+Speech technologies is one of the evolving and highly demanded area for the past few decades due to the huge progress brought by machine learning technology. Especially the past decade has brought tremendous progress which includes the introduction of conversational agents. In this work we describe a multi-task deep metric learning system to learn a single unified audio embedding which can be used to power our multiple audio/speaker specific tasks. The solution we present not only allows us to train for multiple application objectives in a single deep neural network architecture, but takes advantage of correlated information in the combination of all training data from each application to generate a unified embedding that outperforms all specialized embeddings previously deployed for audio/speaker specific task.
 
 ## Description
 
