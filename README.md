@@ -61,8 +61,8 @@ NOTE: If you want to use your own dataset, make sure you follow the directory st
 
 ## References
 
-* [Deep Speaker](http://daringfireball.net/projects/markdown/) : An End-to-End Neural Speaker Embedding System by Chao Li, Xiaokong Ma, Bing Jiang, Xiangang Li.
-
+* [Deep Speaker](https://arxiv.org/pdf/1705.02304.pdf) : An End-to-End Neural Speaker Embedding System by Chao Li, Xiaokong Ma, Bing Jiang, Xiangang Li.
+* [GitHub](https://github.com/philipperemy/deep-speaker)
 ## Acknowledgments
 
 * Ketharan Suntharam
