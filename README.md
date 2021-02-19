@@ -27,6 +27,31 @@
 
 Speech technologies is one of the evolving and highly demanded area for the past few decades due to the huge progress brought by machine learning technology. Especially the past decade has brought tremendous progress which includes the introduction of conversational agents. In this work we describe a multi-task deep metric learning system to learn a single unified audio embedding which can be used to power our multiple audio/speaker specific tasks. The solution we present not only allows us to train for multiple application objectives in a single deep neural network architecture, but takes advantage of correlated information in the combination of all training data from each application to generate a unified embedding that outperforms all specialized embeddings previously deployed for audio/speaker specific task.
 
+### Directory Structure
+The files and directories of the repository is shown below
+
+        aaivu-unified-voice-embedding-master
+        ├── Architecture.png
+        ├── docs
+        │   └── README.md
+        ├── hive-mtl
+        │   ├── audio.py
+        │   ├── batcher.py
+        │   ├── cli.py
+        │   ├── constants.py
+        │   ├── conv_models.py
+        │   ├── download_librispeech.sh
+        │   ├── hive-mtl
+        │   ├── libri_speaker_gender.csv
+        │   ├── requirements.txt
+        │   ├── test_pretrained.py
+        │   ├── train.py
+        │   └── utils.py
+        ├── LICENSE
+        ├── README.md
+        └── src
+            └── README.md
+
 ## Getting started
 ### Install dependencies
 #### Requirements
