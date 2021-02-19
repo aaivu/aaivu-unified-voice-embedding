@@ -19,6 +19,7 @@
 
 - Pretrained Model : [Pretrained Models](https://drive.google.com/drive/folders/1Hw2BMs0clCrKoYIq0B0PWXnxuoVUPGci?usp=sharing)
 - Libri Speech : [LibriSpeech](http://www.openslr.org/12/)
+- Talk Forum : [Forum](https://talk.aaivu.org/t/hive-mtl-unified-voice-embedding-through-multi-task-learning/32)
 
 ---
 
