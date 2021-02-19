@@ -50,6 +50,8 @@ pip uninstall -y tensorflow && pip install tensorflow-gpu
 ./hive-mtl build_model_inputs
 ./hive-mtl train_mtl
 ```
+NOTE: If you want to use your own dataset, make sure you follow the directory structure of librispeech. Audio files have to be in `.flac`. format. If you have `.wav`, you can use `ffmpeg` to make the conversion. Both formats are flawless (FLAC is compressed WAV).
+
 
 ### Architecture Diagram
 
