@@ -11,7 +11,7 @@
 - <b>Project Lead</b>
     1. **Dr. Uthayasanker Thayasivam** (talk forum profile link)
 - <b>Contributors</b>
-    1. **Rajenthiran Jenarthanan** (talk forum profile link)
+    1. [**Rajenthiran Jenarthanan**](https://talk.aaivu.org/u/jenarthanan)
     2. **Lakshikka Sithamparanathan** (talk forum profile link)
     3. **Saranya Uthayakumar** (talk forum profile link)
 
